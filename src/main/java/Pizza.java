@@ -9,8 +9,8 @@ public class Pizza {
 
 
     public Pizza() {
-        this.tamanho=15;
-        this.sabor="mussarela";
+        this.tamanho=0;
+        this.sabor="";
     }
 
     public String getSabor() {
